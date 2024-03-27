@@ -1,5 +1,3 @@
-**README.md**
-
 # Geographical Profiling of Routes for Security and Surveillance
 
 ## Abstract
@@ -29,11 +27,3 @@ Future work involves improving algorithms, integrating new technologies, enhanci
 ## Conclusion
 
 In conclusion, this project presents a systematic approach to geographical profiling for security and surveillance. By integrating advanced technologies and data-driven analytics, the system aims to enhance public safety measures and create a safer environment. The project's commitment to transparency, ethics, and continuous improvement ensures its effectiveness and relevance in addressing evolving security challenges.
-
-## References
-
-The references section provides a list of sources consulted for the project, including books, journal articles, conference papers, and research papers, along with their authors and publication years.
-
----
-
-Feel free to adapt this README.md template according to your project requirements and preferences.
